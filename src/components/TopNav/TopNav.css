@@ -1,0 +1,30 @@
+.topnav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    background: rgb(90, 89, 86);
+    min-height: 65px;
+    width: 100%;
+    text-align: center;
+    color: #fff;
+    font-size: 40px;
+    font-weight: bold;
+    z-index: 99;
+}
+
+.topnav a {
+    color: #fff;
+}
+
+.desc-normal {
+    color: #fff;
+}
+
+.desc-correct {
+    color: #0f0;
+}
+
+.desc-incorrect {
+    color: #f00;
+}
+
